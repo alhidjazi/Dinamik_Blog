@@ -1,0 +1,2 @@
+# Dinamik_Blog
+ PHP
